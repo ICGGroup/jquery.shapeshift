@@ -1,0 +1,14 @@
+{
+  "name": "shapeshift",
+  "version": "2.0",
+  "ignore": [
+    "demos",
+    ".json"
+    ".coffee"
+  ],
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  }
+}
